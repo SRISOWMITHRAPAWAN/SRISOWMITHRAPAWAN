@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srisowmithrapawan" alt="srisowmithrapawan" /></a> </p>
+
 
 - 🌱 I’m currently learning **Fullstack web development(MERN)**
 
